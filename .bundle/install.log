@@ -1,3 +1,25 @@
 # Logfile created on 2014-04-22 16:35:59 -0700 by logger.rb/41954
 I, [2014-04-22T16:35:59.781263 #79030]  INFO -- : 0:  ruby_motion_query (0.5.6) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/ruby_motion_query-0.5.6.gemspec
 I, [2014-04-22T16:35:59.782111 #79030]  INFO -- : 0:  bundler (1.5.1) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/bundler-1.5.1.gemspec
+I, [2014-04-22T16:40:00.470383 #79145]  INFO -- : 0:  ruby_motion_query (0.5.6) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/ruby_motion_query-0.5.6.gemspec
+I, [2014-04-22T16:40:00.471319 #79145]  INFO -- : 0:  bundler (1.5.1) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/bundler-1.5.1.gemspec
+I, [2014-04-22T16:48:35.203846 #80246]  INFO -- : 0:  i18n (0.6.9) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/i18n-0.6.9.gemspec
+I, [2014-04-22T16:48:35.700984 #80246]  INFO -- : 0:  multi_json (1.9.2) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/multi_json-1.9.2.gemspec
+I, [2014-04-22T16:48:36.566090 #80246]  INFO -- : 0:  activesupport (3.2.17) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/activesupport-3.2.17.gemspec
+I, [2014-04-22T16:48:37.044022 #80246]  INFO -- : 0:  claide (0.5.0) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/claide-0.5.0.gemspec
+I, [2014-04-22T16:48:37.503085 #80246]  INFO -- : 0:  fuzzy_match (2.0.4) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/fuzzy_match-2.0.4.gemspec
+I, [2014-04-22T16:48:38.082439 #80246]  INFO -- : 0:  json_pure (1.8.1) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/json_pure-1.8.1.gemspec
+I, [2014-04-22T16:48:38.615206 #80246]  INFO -- : 0:  nap (0.7.0) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/nap-0.7.0.gemspec
+I, [2014-04-22T16:48:39.063416 #80246]  INFO -- : 0:  cocoapods-core (0.32.1) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/cocoapods-core-0.32.1.gemspec
+I, [2014-04-22T16:48:39.421681 #80246]  INFO -- : 0:  cocoapods-downloader (0.5.0) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/cocoapods-downloader-0.5.0.gemspec
+I, [2014-04-22T16:48:39.806356 #80246]  INFO -- : 0:  cocoapods-try (0.2.0) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/cocoapods-try-0.2.0.gemspec
+I, [2014-04-22T16:48:39.806695 #80246]  INFO -- : 0:  colored (1.2) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/colored-1.2.gemspec
+I, [2014-04-22T16:48:40.418956 #80246]  INFO -- : 0:  escape (0.0.4) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/escape-0.0.4.gemspec
+I, [2014-04-22T16:48:41.348426 #80246]  INFO -- : 0:  open4 (1.3.3) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/open4-1.3.3.gemspec
+I, [2014-04-22T16:48:44.294285 #80246]  INFO -- : 0:  xcodeproj (0.16.1) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/xcodeproj-0.16.1.gemspec
+I, [2014-04-22T16:48:44.825098 #80246]  INFO -- : 0:  cocoapods (0.32.1) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/cocoapods-0.32.1.gemspec
+I, [2014-04-22T16:48:45.129881 #80246]  INFO -- : 0:  motion-cocoapods (1.4.1) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/motion-cocoapods-1.4.1.gemspec
+I, [2014-04-22T16:48:45.568821 #80246]  INFO -- : 0:  motion-require (0.2.0) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/motion-require-0.2.0.gemspec
+I, [2014-04-22T16:48:46.268905 #80246]  INFO -- : 0:  afmotion (2.1.4) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/afmotion-2.1.4.gemspec
+I, [2014-04-22T16:48:46.269252 #80246]  INFO -- : 0:  ruby_motion_query (0.5.6) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/ruby_motion_query-0.5.6.gemspec
+I, [2014-04-22T16:48:46.269464 #80246]  INFO -- : 0:  bundler (1.5.1) from /Users/K/.rvm/gems/ruby-2.0.0-p353@K/specifications/bundler-1.5.1.gemspec
